@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/ROG/Desktop/game/MyGame/Content/bizi.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/bizi.xnb","TextureProcessor","Texture2DContent",5541,14189,0.104689
+"c:/Users/ROG/Desktop/game/MyGame/Content/bu.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/bu.xnb","TextureProcessor","Texture2DContent",722,1813,0.001274
+"c:/Users/ROG/Desktop/game/MyGame/Content/eye.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/eye.xnb","TextureProcessor","Texture2DContent",19178,50485,0.0040054
+"c:/Users/ROG/Desktop/game/MyGame/Content/qwer.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/qwer.xnb","TextureProcessor","Texture2DContent",10776,27541,0.1046676
+"c:/Users/ROG/Desktop/game/MyGame/Content/rtyu.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/rtyu.xnb","TextureProcessor","Texture2DContent",45610,413173,0.1198483
+"c:/Users/ROG/Desktop/game/MyGame/Content/uio.png","c:/Users/ROG/Desktop/game/MyGame/Content/bin/Windows/Content/uio.xnb","TextureProcessor","Texture2DContent",2867,66325,0.1084089
